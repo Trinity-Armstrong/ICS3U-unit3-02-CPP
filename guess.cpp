@@ -1,7 +1,7 @@
 // Copyright (c) 2019 Trinity Armstrong All rights reserved.
 //
 // Created by: Trinity Armstrong
-// Created on: September 2019
+// Created on: October 2019
 // This program runs the "Number Guessing Game"
 
 #include <iostream>
